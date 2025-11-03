@@ -1,7 +1,7 @@
 {
 	"name": "Projeto_App_Fala",
 	"short_name": "Projeto_App_Fala",
-	"description": "",
+	"description": "aplicativo para ajudar crianças com TEA não verbal a se comunicar",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
